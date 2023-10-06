@@ -5,4 +5,4 @@ The purpose is:
 - ask the user for his name,
 - then ask his last name,
 - then ask his favorite color
-- and finally, write name, surname, color, favorite21 on the page
+- and finally, write name, surname, color favorite,21 on the page
